@@ -1,4 +1,4 @@
-### Hey there! 👋 
+ ### Hey there! 👋 
 I'm **superstar(also known by the GitHub username superstar-zimtk)**, a 17 year-old Computer Science student and hobby developer passionate about **AI, chatbots, and automation**.  
 
 I love building **WhatsApp bots**, **AI-driven solutions**, and contributing to **open-source technologies** that make automation smarter and more accessible.  
