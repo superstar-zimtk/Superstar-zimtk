@@ -5,14 +5,6 @@ I love building **WhatsApp bots**, **AI-driven solutions**, and contributing to 
 
 Currently, I'm focused on:
 - Enhancing **[Pretty-md](https://github.com/superstar-zimtk/Pretty-md)**: my advanced, modular WhatsApp automation bot.
-- 
-Beyond coding, you'll probably find me:
-- Gaming or exploring new tech
-- Hiking and discovering cool places
-- Eating (a lot, honestly 😅)
-- Watching movies or anime
-- Researching random stuff that somehow turns into a side project  
-
 
 ### MY STATS:
 <p align="center"><a href="https://github.com/superstar-zimtk/followers"><img title="Followers" src="https://img.shields.io/github/followers/superstar-zimtk?color=red&style=flat-square"></a></p>
@@ -22,14 +14,6 @@ Beyond coding, you'll probably find me:
 <p align="center"><a href="https://github.com/superstar-zimtk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstar-zimtk&theme=radical&layout=compact"></a></p>
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=superstar-zimtk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-### GITHUB TROPHIES
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=superstar-zimtk)
-
-
-
-### TOP CONTRIBUTIONS
-![](https://github-contributor-stats.vercel.app/api?username=superstar-zimtk&limit=5&theme=black&combine_all_yearly_contributions=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=superstar-zimtk&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
